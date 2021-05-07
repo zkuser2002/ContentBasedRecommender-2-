@@ -5,10 +5,15 @@ Content Based Recommenders recommend an item based on its features and how simil
 
 
 # Libraries
+
 -numpy
+
 -pandas
+
 -sklearn
+
 -sklearn.neighbors
+
 
 
 # Dataset
